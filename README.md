@@ -9,4 +9,4 @@ As a student in the Public Relations class at Calvin University, I worked in a t
 - An example social media content calendar for the client
 
 I've also included a copy of my Resume.
-If you have any questions, feel free to reach out. My email is sjt28@students.calvin.edu
+If you have any questions, feel free to get in touch out. My email is sjt28@students.calvin.edu
