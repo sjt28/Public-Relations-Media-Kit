@@ -1,6 +1,8 @@
 # Public Relations Media Kit
 
-As a student in the Public Relations class at Calvin University, I worked in a team to create a press kit promoting a graphic novel written by one of the professors. In this repo are the final versions of the materials we created, including the following:
+As a student in the Public Relations class at Calvin University, I worked in a team to create a press kit promoting a graphic novel written by one of the professors. Through this project, I gained an ability to create materials for a specific audience, through the social media posts, and to devide publics into subsections to target, rather than trying to reach all audiences with a single media artifact. I also gained knowledge of how to accept critiques and revise my own work, through working with a group on things like the press release, fact sheet, and writing the PSA.
+
+In this repo are the final versions of the materials we created, including the following:
 - A summary report
 - A press release
 - A fact sheet
